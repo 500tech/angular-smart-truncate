@@ -1,0 +1,20 @@
+{
+  "name": "angular-smart-truncate",
+  "version": "1.0.0",
+  "authors": [
+    "Ilya Gelman <ilyagelman@ilyagelman.com>"
+  ],
+  "description": "String truncation, which let's you see the beginning and the ending of a truncated string.",
+  "main": ["dist/angular-smart-truncate.js"],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "text",
+    "filter",
+    "truncate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}

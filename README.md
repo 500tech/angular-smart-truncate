@@ -32,7 +32,7 @@ angular.module('App', [
 
 will be transformed to:
 
-```/Users/Jo...file.jpg```
+``` /Users/Jo...file.jpg ```
 
 
 ## License

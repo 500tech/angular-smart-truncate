@@ -1,5 +1,7 @@
 angular.module('500tech.smart-truncate', []).filter('truncate', function () {
   return function (input, length) {
+    length = length || 10;
+    
     if (input.length <= length || input.length < 4) {
       return input;      
     }

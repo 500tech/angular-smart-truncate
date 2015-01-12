@@ -1,5 +1,6 @@
 angular.module('500tech.smart-truncate', []).filter 'truncate', ->
   (input, length = 10) ->
+    return unless input
     return input if input.length <= length || input.length < 4 
     
     start = Math.round((length - 3) / 2)

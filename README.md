@@ -1,6 +1,6 @@
 # angular-smart-truncate
 
-String truncation, which let's you see the beginning and the ending of a truncated string.
+String truncation, which lets you see the beginning and the ending of a truncated string.
 
 
 ## Install
